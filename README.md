@@ -34,14 +34,12 @@ How do various production, content, and personnel factors affect the popularity 
 - `role`: ACTOR, DIRECTOR, etc.
 
 ## 🛠️ Technologies Used
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
-
-Always use a space after the hash (#) and before your heading text.
 
 ## 🔍 Key Analysis Areas
 
