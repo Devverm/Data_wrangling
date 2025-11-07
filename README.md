@@ -34,4 +34,77 @@ How do various production, content, and personnel factors affect the popularity 
 - `role`: ACTOR, DIRECTOR, etc.
 
 ## 🛠️ Technologies Used
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+
+Always use a space after the hash (#) and before your heading text.
+
+## 🔍 Key Analysis Areas
+
+### Data Cleaning & Preprocessing
+
+- Removing duplicates and handling missing values
+- Feature engineering for improved analysis
+
+### Univariate, Bivariate, and Multivariate Analyses
+
+- Distribution of genres and runtimes
+- Correlation of IMDb and TMDB scores
+- Analysis of ratings by country and genre
+
+## 📊 Key Insights
+
+- Movies comprise ~86% of titles; shows, 14%
+- IMDb and TMDB scores show a strong positive correlation (0.58)
+- Most movies run between 80 and 100 minutes
+- US, India, and UK produce the majority of titles
+- Drama and Comedy are the most common genres
+
+## 🚀 Installation & Usage
+Clone the repository
+git clone <your-repository-url>
+cd film-tv-analysis
+
+Install requirements
+pip install numpy pandas matplotlib seaborn
+
+Run the notebook
+jupyter notebook Copy-of-Sample-EDA-Submission-Template.ipynb
+
+
+
+
+## 📈 Sample Visualizations
+
+- Distribution plots for ratings and runtimes
+- Bar charts and heatmaps for genres and correlations
+- Time series of ratings over years
+
+## 💼 Business Applications
+
+- Improve streaming recommendation systems
+- Guide production and casting decisions
+- Inform marketing and release strategies
+
+## 🔮 Future Enhancements
+
+- Predictive modeling for ratings
+- Sentiment analysis of descriptions
+- Collaboration network analysis among cast and crew
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create a feature branch
+3. Commit and push changes
+4. Open a Pull Request
+
+## 📄 License
+
+This project is intended for educational and research purposes.
+
 
