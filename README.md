@@ -1,9 +1,12 @@
 #Amazon prime video
+
+
 ##Film and Television Metadata Analysis
-##Project Overview
+
+###Project Overview
 This project focuses on analyzing a large-scale dataset containing detailed metadata about films and television shows, along with information about the people involved in their creation. The analysis uncovers meaningful insights into global entertainment trends, audience preferences, and factors that influence ratings and popularity.​
 
-##Project Details
+####Project Details
 Project Type: Exploratory Data Analysis (EDA)
 
 Contribution: Individual
